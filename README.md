@@ -25,14 +25,6 @@ Saya adalah seorang **Full Stack Web Developer** dan **Bot Creator** dari Indone
   </a>
 </div>
 
-<br>
-
-<!-- AI Tools Badges -->
-<div align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-</div>
-
 ---
 
 ### 🔗 Let's Connect!
