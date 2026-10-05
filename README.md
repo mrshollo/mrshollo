@@ -40,19 +40,19 @@ Developer yang *passionate* meracik kode menjadi sebuah mahakarya. Percaya bahwa
 
 <div align="center">
   <a href="https://github.com/mrshollo/announcement-hima">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marshepollo&repo=nama-repo-1&theme=radical&bg_color=0D1117&hide_border=true" width="48%" alt="Repo 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrshollo&repo=announcement-hima&theme=radical&bg_color=0D1117&hide_border=true" width="48%" alt="Repo 1" />
   </a>
   <a href="https://github.com/mrshollo/mytask">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marshepollo&repo=nama-repo-2&theme=radical&bg_color=0D1117&hide_border=true" width="48%" alt="Repo 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrshollo&repo=mytask&theme=radical&bg_color=0D1117&hide_border=true" width="48%" alt="Repo 2" />
   </a>
 </div>
 <br/>
 <div align="center">
   <a href="https://github.com/mrshollo/portofoliotw">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marshepollo&repo=nama-repo-3&theme=radical&bg_color=0D1117&hide_border=true" width="48%" alt="Repo 3" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrshollo&repo=portofoliotw&theme=radical&bg_color=0D1117&hide_border=true" width="48%" alt="Repo 3" />
   </a>
   <a href="https://github.com/mrshollo/NMS-Diskominfosantik">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marshepollo&repo=nama-repo-4&theme=radical&bg_color=0D1117&hide_border=true" width="48%" alt="Repo 4" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrshollo&repo=NMS-Diskominfosantik&theme=radical&bg_color=0D1117&hide_border=true" width="48%" alt="Repo 4" />
   </a>
 </div>
 
